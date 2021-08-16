@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @22rl
+- 👋 Hi, I’m Ricardo Alexandre de Araújo Mendes.
 - 👀 I’m interested in tecnology of information and things corelated.
 - 🌱 I’m currently learning the languages Java, Python, C# and C++, and the operacional system open call Ubuntu and yours features.
 - 💞️ I’m looking to collaborate on something related with Information of Tecnology and Programming.
